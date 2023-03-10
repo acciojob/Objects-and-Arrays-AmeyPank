@@ -9,3 +9,4 @@ const person = {
 
 
 export {players,person,team,team1,cap1}
+//solution
